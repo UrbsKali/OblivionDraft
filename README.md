@@ -22,6 +22,10 @@ Small Stream utils (draft, endgame) written in go
 - Put `update.exe` inside a new folder
 - Double click on `update.exe`
 - You're good to go 👌
+
+https://github.com/user-attachments/assets/8012b91b-48db-4d10-9b0a-cdc6f2a6d605
+
+
 ## Usage
 - Execute `draft.exe`
 - connect the overlay to OBS using web url : http://localhost/ui/overlay/ (or overlay_alt if you want)
